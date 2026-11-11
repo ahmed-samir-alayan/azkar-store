@@ -1,9 +1,14 @@
 # Ignore everything by default
 *
 
-# Keep these files/folders
+# Allow only public documentation and published store images
 !/.gitignore
 !/README.md
-!/STORE-LISTING.md
 !/store-assets/
 !/store-assets/PRIVACY-POLICY.md
+!/store-assets/azkar-icon.png
+!/store-assets/screenshots/
+!/store-assets/screenshots/appearance.png
+!/store-assets/screenshots/categories.png
+!/store-assets/screenshots/dhikr-card.png
+!/store-assets/screenshots/prayer-times.png
