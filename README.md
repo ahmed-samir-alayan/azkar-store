@@ -8,7 +8,7 @@
 
 <p align="center" dir="rtl" lang="ar">
   <a href="https://chromewebstore.google.com/detail/libagpbppfgncllgoakcnfcoalfohijm"><strong>ثبّت الإضافة من سوق Chrome</strong></a>
-  · <a href="store-assets/PRIVACY-POLICY.md">سياسة الخصوصية</a>
+  · <a href="https://github.com/ahmed-samir-alayan/azkar-store/blob/main/store-assets/PRIVACY-POLICY.md">سياسة الخصوصية</a>
   · <a href="#english">English</a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <div dir="rtl" lang="ar">
   <h2>الخصوصية والدعم</h2>
-  <p>توضّح <a href="store-assets/PRIVACY-POLICY.md">سياسة الخصوصية</a> بالعربية والإنجليزية طريقة حفظ الإعدادات، ومتى تُستخدم خدمة AlAdhan لمواقيت الصلاة الاختيارية، وكيف تتواصل مع المطوّر.</p>
+  <p>توضّح <a href="https://github.com/ahmed-samir-alayan/azkar-store/blob/main/store-assets/PRIVACY-POLICY.md">سياسة الخصوصية</a> بالعربية والإنجليزية طريقة حفظ الإعدادات، ومتى تُستخدم خدمة AlAdhan لمواقيت الصلاة الاختيارية، وكيف تتواصل مع المطوّر.</p>
 </div>
 
 ## English
